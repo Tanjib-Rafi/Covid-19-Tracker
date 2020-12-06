@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+
 
 import {Cards,Chart,CountryPicker} from './components';
 import styles from './App.module.css';
